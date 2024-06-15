@@ -21,3 +21,9 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts
 
 Nice article for how navigations works
 https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#how-routing-and-navigation-works
+
+
+debounce is a way to prevent that, for example, in search inputs the requisitions to the server will wait until the user ends typing. Not in every keystroke
+
+pnpm i use-debounce
+
