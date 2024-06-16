@@ -1,29 +1,46 @@
+
 ## Next.js App Router Course - Starter
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Learning project with Next.js - 16 chapters.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+See the release on https://next-quick-start-drab.vercel.app
+
+I was surprised by the capacity of this stack, I really recommend this course to everyone. This will definitely be the next market adoption 
 
 
-On admin powershell to let scrips of pnpm run 
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+## Reference
+
+ - [learn next.js](https://nextjs.org/learn)
+ - [see vercel](https://vercel.com)
+
+
+
+## To learn
+
+front stack
+
+- https://nextjs.org/docs/app/building-your-application/optimizing/images
+- https://nextjs.org/docs/app/building-your-application/optimizing/fonts
+- https://developer.mozilla.org/en-US/docs/Learn/Performance/Multimedia
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts
+
+
+navigation
+- https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#how-routing-and-navigation-works
+
+# What is debounce ?
+
+- debounce is a way to prevent that, for example, in search inputs the requisitions to the server will wait until the user ends typing. Not in every keystroke
+
+- pnpm i use-debounce
+
+On admin powershell to run pnpm scrips 
+
+- Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 to block scripts on your machine
-Set-ExecutionPolicy Restricted -Scope CurrentUser
+- Set-ExecutionPolicy Restricted -Scope CurrentUser
 
 
-
-Nice reading for be a pro in front with Tailand and next
-https://nextjs.org/docs/app/building-your-application/optimizing/images
-https://nextjs.org/docs/app/building-your-application/optimizing/fontshttps://developer.mozilla.org/en-US/docs/Learn/Performance/Multimedia
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts
-
-
-Nice article for how navigations works
-https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#how-routing-and-navigation-works
-
-
-debounce is a way to prevent that, for example, in search inputs the requisitions to the server will wait until the user ends typing. Not in every keystroke
-
-pnpm i use-debounce
-
+![image](https://github.com/OAllanFernando/next-quick-start/assets/86169747/6462317c-22cf-46da-8dcb-dc5bca911d82)
