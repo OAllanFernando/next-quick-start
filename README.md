@@ -29,6 +29,12 @@ front stack
 navigation
 - https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#how-routing-and-navigation-works
 
+Error handling - additional content
+- https://nextjs.org/docs/app/building-your-application/routing/error-handling
+- https://nextjs.org/docs/app/api-reference/file-conventions/error
+- https://nextjs.org/docs/app/api-reference/functions/not-found
+- https://nextjs.org/docs/app/api-reference/file-conventions/not-found
+
 # What is debounce ?
 
 - debounce is a way to prevent that, for example, in search inputs the requisitions to the server will wait until the user ends typing. Not in every keystroke
