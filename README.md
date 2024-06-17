@@ -35,6 +35,9 @@ Error handling - additional content
 - https://nextjs.org/docs/app/api-reference/functions/not-found
 - https://nextjs.org/docs/app/api-reference/file-conventions/not-found
 
+accessibility
+- https://web.dev/learn/accessibility/
+
 # What is debounce ?
 
 - debounce is a way to prevent that, for example, in search inputs the requisitions to the server will wait until the user ends typing. Not in every keystroke
@@ -50,3 +53,13 @@ to block scripts on your machine
 
 
 ![image](https://github.com/OAllanFernando/next-quick-start/assets/86169747/6462317c-22cf-46da-8dcb-dc5bca911d82)
+
+## Covered topics in every chapter
+
+# 14 - Improving accessibility
+- How to use eslint-plugin-jsx-a11y with Next.js to implement accessibility best practices.
+
+- How to implement server-side form validation.
+
+- How to use the React useFormState hook to handle form errors, and display them to the user.
+
