@@ -38,6 +38,9 @@ Error handling - additional content
 accessibility
 - https://web.dev/learn/accessibility/
 
+authentication by oauth
+- https://authjs.dev/getting-started/authentication/oauth
+
 # What is debounce ?
 
 - debounce is a way to prevent that, for example, in search inputs the requisitions to the server will wait until the user ends typing. Not in every keystroke
@@ -63,3 +66,11 @@ to block scripts on your machine
 
 - How to use the React useFormState hook to handle form errors, and display them to the user.
 
+# 15 - Adding Authentication
+- What is authentication.
+
+- How to add authentication to your app using NextAuth.js.
+
+- How to use Middleware to redirect users and protect your routes.
+
+- How to use React's useFormStatus and useFormState to handle pending states and form errors.
