@@ -74,3 +74,13 @@ to block scripts on your machine
 - How to use Middleware to redirect users and protect your routes.
 
 - How to use React's useFormStatus and useFormState to handle pending states and form errors.
+
+# 16 - Adding metadata
+
+- What metadata is.
+
+- Types of metadata.
+
+- How to add an Open Graph image using metadata.
+
+- How to add a favicon using metadata
