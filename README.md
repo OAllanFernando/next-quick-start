@@ -4,6 +4,9 @@
 Learning project with Next.js - 16 chapters.
 
 See the release on https://next-quick-start-drab.vercel.app
+user@nextmail.com
+123456 
+Feel free to experiment. If the link doesn't work, I may have already taken the app out of production
 
 I was surprised by the capacity of this stack, I really recommend this course to everyone. This will definitely be the next market adoption 
 
