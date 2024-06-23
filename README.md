@@ -57,6 +57,8 @@ On admin powershell to run pnpm scrips
 to block scripts on your machine
 - Set-ExecutionPolicy Restricted -Scope CurrentUser
 
+# internationalization 
+- https://www.youtube.com/watch?v=H9O9HdKNytc
 
 ![image](https://github.com/OAllanFernando/next-quick-start/assets/86169747/6462317c-22cf-46da-8dcb-dc5bca911d82)
 
